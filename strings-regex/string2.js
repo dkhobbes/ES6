@@ -6,3 +6,4 @@ console.log(text.charCodeAt(1));
 
 console.log(text2.charCodeAt(0));
 console.log(text2.charCodeAt(1));
+console.log(String.fromCodePoint(134071));
